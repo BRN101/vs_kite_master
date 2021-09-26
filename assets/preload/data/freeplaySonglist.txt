@@ -1,0 +1,5 @@
+Tutorial:gf:0
+Calm:kite:1
+Dominating:kite:1
+Skills:kite:1
+Envy:kite:1
